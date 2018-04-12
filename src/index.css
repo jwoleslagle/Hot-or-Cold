@@ -1,0 +1,22 @@
+html, body {
+  margin: 0;
+  height: 100%;
+}
+
+html {
+  background: #394264;
+}
+
+body {
+  position: relative;
+  margin: 10px;
+  font-family: 'Lato', Calibri, Arial, sans-serif;
+  text-align: center;
+  background: #1F253D;
+}
+
+h1 {
+  font-size: 3em;
+  color: #fff;
+}
+

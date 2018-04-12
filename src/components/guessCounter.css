@@ -1,0 +1,17 @@
+.guess-counter {
+    height: 72px;
+    margin: 10px auto 0;
+    background: #394264;
+    padding: 0.5em;
+    display: block;
+    line-height: 2em;
+    color: #fff;
+    overflow: auto;
+    font-size: 1.5em;
+    font-weight: 400;
+}
+
+.guess-number {
+    color: darkorange;
+    font-size: 1.75em;
+}
